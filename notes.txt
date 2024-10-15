@@ -1,0 +1,9 @@
+INTRO TO CONTRAINTS
+
+objectives 
+define conrtrains and valideation in data processing.
+restrict data iput to specific formats 
+ensre that only acceptable inpurt is sent to the data base usin validations.
+
+invalid data is the boggerman of web application 
+it hides you database unot the worst possible moment.
